@@ -1,0 +1,6 @@
+framework module Pods_PGram {
+  umbrella header "Pods-PGram-umbrella.h"
+
+  export *
+  module * { export * }
+}

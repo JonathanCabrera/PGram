@@ -1,0 +1,6 @@
+framework module Pods_PGram_PGramUITests {
+  umbrella header "Pods-PGram-PGramUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
