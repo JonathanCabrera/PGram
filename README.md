@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 - [x] User can sign up to create a new account. (1pt)
 - [x] User can log in. (1pt)
 - [x] User can take a photo, add a caption, and post it to the server. (3pt)
-- [ ] User can view the last 20 posts. (4pts)
+- [x] User can view the last 20 posts. (4pts)
 
 The following **bonus** features are implemented:
 
@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/CTMA23qZ0G' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/CTMA23qZ0G.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='http://g.recordit.co/QX0olHzVEo.gif' title='Video Walkthrough part 2' width='' alt='Video Walkthrough part 2' />
