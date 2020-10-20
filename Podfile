@@ -10,6 +10,7 @@ target 'PGram' do
   pod 'Parse'
   pod 'Alamofire'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
 
 
